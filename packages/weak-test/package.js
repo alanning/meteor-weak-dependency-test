@@ -3,7 +3,7 @@ Package.describe({
 })
 
 Package.on_use(function (api) {
-  api.use('iron-router', ['client', 'server'], {weak: true})
+  api.use('xyz', 'server', {weak: true})
 
   api.add_files('weak-test.js', 'server')
 })

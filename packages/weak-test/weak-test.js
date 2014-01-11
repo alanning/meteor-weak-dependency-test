@@ -1,4 +1,3 @@
-var router = Package['iron-router']
+var test = Package['xyz']
 
-console.log("[weak-test] iron-router package found?", !!router)
-console.log(router)
+console.log("[weak-test] xyz package found?", !!test)
