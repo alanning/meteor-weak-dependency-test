@@ -1,0 +1,2 @@
+meteor-weak-dependency-test
+===========================
